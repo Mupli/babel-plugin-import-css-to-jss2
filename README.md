@@ -1,5 +1,9 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/websecurify.svg?logo=twitter)](https://twitter.com/websecurify)
 
+# Fork 
+I've forked this project because it was archived by author. 
+I'll be providing changes for my own needs.
+
 # babel-plugin-import-css-to-jss
 
 This is a simple babel plugin to inline css into js vis jss.
